@@ -1,0 +1,28 @@
+{
+  "name": "periphery-label",
+  "main": "periphery-label.js",
+  "dependencies": {
+    "jquery": "2.*",
+    "underscore": "1.*"
+  },
+  "keywords": [
+    "periphery",
+    "label",
+    "message"
+  ],
+  "ignore": [
+    ".jshintrc",
+    ".gitignore"
+  ],
+  "homepage": "https://github.com/jbrudvik/periphery-label",
+  "version": "0.0.3",
+  "_release": "0.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.3",
+    "commit": "67dcc1be76f762aedde6ca6a76623dd920f4855f"
+  },
+  "_source": "https://github.com/jbrudvik/periphery-label.git",
+  "_target": "0.*",
+  "_originalSource": "periphery-label"
+}

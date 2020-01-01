@@ -1,0 +1,34 @@
+{
+  "name": "selection-counter",
+  "main": "selection-counter.js",
+  "dependencies": {
+    "jquery": "2.*",
+    "pluralize": "1.*",
+    "selection-listener": "0.*",
+    "periphery-label": "0.*"
+  },
+  "keywords": [
+    "selection",
+    "count",
+    "counter",
+    "text",
+    "character",
+    "word"
+  ],
+  "ignore": [
+    "**/.*",
+    "*.md",
+    "generate-docs"
+  ],
+  "homepage": "https://github.com/jbrudvik/selection-counter",
+  "version": "0.2.0",
+  "_release": "0.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.0",
+    "commit": "049bbce314699061759261f583ba0ee1a1aae884"
+  },
+  "_source": "https://github.com/jbrudvik/selection-counter.git",
+  "_target": "0.2.*",
+  "_originalSource": "selection-counter"
+}
