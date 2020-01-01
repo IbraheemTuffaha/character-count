@@ -1,9 +1,0 @@
-{
-  "name": "equatable-selection",
-  "main": "equatable-selection.js",
-  "dependencies": {
-    "selection-stats": "0.*"
-  },
-  "keywords": ["util", "selection", "text", "word", "character", "count"],
-  "ignore": ["**/.*", "*.md", "generate-docs"]
-}

@@ -1,8 +1,0 @@
-{
-  "name": "character-count-safari",
-  "private": true,
-  "dependencies": {
-    "browser-extension-toggle-button": "0.2.*",
-    "selection-counter": "0.2.*"
-  }
-}
