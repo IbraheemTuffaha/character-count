@@ -37,9 +37,9 @@
 
       // If the anchor node and the focus node are the same, the count of words
       // selected is the absolute difference of the anchor and focus offsets
-      if (anchorNode === focusNode) {
-        return Math.abs(selection.focusOffset - selection.anchorOffset);
-      }
+      // if (anchorNode === focusNode) {
+      //   return Math.abs(selection.focusOffset - selection.anchorOffset);
+      // }
 
       // If focus node follows anchor node, selection.toString() sometimes includes
       // trailing whitespace even if it isn't selected. Decrease count by one if there
