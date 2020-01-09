@@ -24,7 +24,7 @@
    */
   selectionStats.characterCount = function (selection) {
     var text = selection.toString();
-    text = text.replace(/ّ|َ|ً|ُ|ٌ|ِ|ٍ|ْ|ٰ|ٓ|ٔ|ٕ|ٖ|ٗ|٘|ٙ|ٚ|ٛ|ٜ|ٝ|ٞ| |ؐ|ؑ|ؒ|ؓ|ؔ|ؕ|ؖ|ؗ|ؘ|ؙ|ؚ|؞|ٟ/g, '');
+    text = text.replace(/ّ|َ|ً|ُ|ٌ|ِ|ٍ|ْ|ٰ|ٓ|ٔ|ٕ|ٖ|ٗ|٘|ٙ|ٚ|ٛ|ٜ|ٝ|ٞ|ؐ|ؑ|ؒ|ؓ|ؔ|ؕ|ؖ|ؗ|ؘ|ؙ|ؚ|؞|ٟ/g, '');
     var count = stringStats.characterCount(text);
 
     // Fix naive count in corner cases
